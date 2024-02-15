@@ -1,1 +1,2 @@
 print("polar")
+print("gosu")
